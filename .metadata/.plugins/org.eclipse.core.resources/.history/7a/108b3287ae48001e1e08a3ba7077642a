@@ -1,0 +1,5 @@
+package com.lcwd.blog.config;
+
+public class SecurityConfig {
+
+}

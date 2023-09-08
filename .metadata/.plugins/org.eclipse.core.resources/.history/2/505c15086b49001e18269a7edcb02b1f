@@ -1,0 +1,5 @@
+package com.lcwd.blog.security;
+
+public class CustomUserDetailService {
+
+}

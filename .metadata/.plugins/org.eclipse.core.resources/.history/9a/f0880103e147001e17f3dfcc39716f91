@@ -1,0 +1,5 @@
+package com.lcwd.blog.payload;
+
+public class PostResponse {
+
+}
