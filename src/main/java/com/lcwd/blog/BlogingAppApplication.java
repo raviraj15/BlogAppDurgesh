@@ -21,6 +21,7 @@ public class BlogingAppApplication {
 		SpringApplication.run(BlogingAppApplication.class, args);
 		
 		System.out.println("devloper code branch ");
+		System.out.println("developer branch");
 
 	}
 
